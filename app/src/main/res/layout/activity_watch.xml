@@ -12,6 +12,7 @@
         android:layout_height="match_parent"
         android:id="@+id/player"
         app:use_controller="true"
+        android:background="@android:color/background_dark"
         app:controller_layout_id="@layout/custom_controller"
         app:player_layout_id="@layout/exo_player_view"
         />
